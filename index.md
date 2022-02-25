@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to BonkJerry-CHI22's Website
 
 You can use the [editor on GitHub](https://github.com/BonkJerry-Chi22-YuJianZe/bonkjerry-chi22.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
